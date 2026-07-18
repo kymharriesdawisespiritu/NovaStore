@@ -1,0 +1,44 @@
+E-Commerce MVP v1.0
+
+[/] Setup Project
+  [/] Create index.html
+  [/] Create style.css
+  [/] Create script.js
+
+[/] Header
+  [/] Logo
+  [/] Navigation
+  [/] Cart Button
+
+[/] Hero Section
+  [/] Store Title
+  [/] Short Description
+  [/] Shop Now Button
+
+[/] Products
+  [/] Product Grid
+  [/] Product Card
+    [/] Product Image
+    [/] Product Name
+    [/] Product Price
+    [/] Add to Cart Button
+
+[] Shopping Cart
+  [/] Open Cart
+  [/] Show Added Products
+  [] Remove Product
+  [] Total Price
+
+[/] Footer
+  [/] Copyright
+  [/] Social Links
+
+[/] Responsive
+  [/] Mobile Layout
+  [/] Tablet Layout
+  [/] Desktop Layout
+
+[] Testing
+  [] Check Buttons
+  [] Check Cart
+  [/] Check Responsive
