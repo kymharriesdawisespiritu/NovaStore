@@ -1,13 +1,18 @@
+// create variable
 const cartItems = document.getElementById("cartItems");
-const jacket1 = document.querySelectorAll("#jacket1");
+const addtocart = document.querySelectorAll(".add-to-cart");
+const pricing = document.getElementById("price");
 
-jacket1.addEventListener("click", function () {
-  console.log("im here");
-  cartItems.innerHTML += `
-    <p>Burger - ₱120</p>
-`;
-  const del = document.createElement("button");
-  del.value = "delete";
+console.log(addtocart);
+
+// create function
+addtocart.forEach((Button) => {
+  Button.addEventListener("click", function (tag) {
+    const pricetag = tag.target.dataset.price;
+    const item = document.createElement("li");
+    item.textContent = `price ${pricetag}`;
+    cartItems.appendChild(item);
+    console.log(cartItems);
+  });
 });
-
-console.log(prod);
+console.log(addtocart);

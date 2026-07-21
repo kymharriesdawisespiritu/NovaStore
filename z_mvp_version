@@ -42,3 +42,43 @@ E-Commerce MVP v1.0
   [] Check Buttons
   [] Check Cart
   [/] Check Responsive
+  
+E-Commerce MVP v2.0
+
+[] Shopping Cart Improvements
+  [] Remove Product
+  [] Increase Quantity
+  [] Decrease Quantity
+  [] Total Price
+  [] Empty Cart Message
+
+[] Product Features
+  [] Product Rating
+  [] Product Category
+  [] Product Badge (New/Sale)
+  [] Product Stock
+
+[] Search & Filter
+  [] Search Products
+  [] Filter by Category
+  [] No Results Message
+
+[] UI Improvements
+  [] Better Product Card Design
+  [] Hover Effects
+  [] Cart Item Counter
+  [] Smooth Transitions
+
+[] Local Storage
+  [] Save Cart
+  [] Load Cart
+  [] Clear Cart
+
+[] Testing
+  [] Test Add to Cart
+  [] Test Remove Product
+  [] Test Quantity
+  [] Test Search
+  [] Test Filter
+  [] Test Local Storage
+  [] Test Responsive
